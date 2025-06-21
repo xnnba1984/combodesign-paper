@@ -1,5 +1,5 @@
 # Reproduction Materials
-This repository contains the analysis and simulation code that supports all empirical results in the manuscript "Synergy-Informed Design of Platform Trials for Combination Therapies: False Positive Control, Allocation Optimization, and Sample Size Determination". Each script is independent of the ```combodesign``` R package and no external functions are required.
+This repository contains the analysis and simulation code that supports all empirical results in the manuscript "Synergy-Informed Design of Platform Trials for Combination Therapies". Each script is independent of the ```combodesign``` R package and no external functions are required.
 
 File | Purpose | Key outputs
 -----|-----|-----|

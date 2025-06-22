@@ -1,5 +1,5 @@
 # Reproduction Materials
-This repository contains the analysis and simulation code that supports all empirical results in the manuscript "Synergy-Informed Design of Platform Trials for Combination Therapies". Each script is independent of the ```combodesign``` R package and no external functions are required. The manuscript can be downloaded [here](https://doi.org/10.48550/arXiv.2506.03086).
+This repository contains the analysis and simulation code that supports all empirical results in the manuscript "Synergy-Informed Design of Platform Trials for Combination Therapies". Each script is independent of the ```combodesign``` R package and no external functions are required. The preprint can be downloaded [here](https://doi.org/10.48550/arXiv.2506.03086).
 
 File | Purpose | Key outputs
 -----|-----|-----|
